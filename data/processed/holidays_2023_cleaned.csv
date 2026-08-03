@@ -1,0 +1,14 @@
+holiday_date,holiday_name,holiday_date_type
+2023-01-01,New Year's Day,actual
+2023-01-02,New Year's Day,observed
+2023-01-16,"Birthday of Martin Luther King, Jr",actual; observed
+2023-02-20,Washington's Birthday,actual; observed
+2023-05-29,Memorial Day,actual; observed
+2023-06-19,Juneteenth National Independence Day,actual; observed
+2023-07-04,Independence Day,actual; observed
+2023-09-04,Labor Day,actual; observed
+2023-10-09,Columbus Day,actual; observed
+2023-11-10,Veterans Day,observed
+2023-11-11,Veterans Day,actual
+2023-11-23,Thanksgiving Day,actual; observed
+2023-12-25,Christmas Day,actual; observed

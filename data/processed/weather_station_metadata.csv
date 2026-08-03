@@ -1,0 +1,5 @@
+STATION,weather_station_key,weather_station_name,usaf,wban,taxi_zone_note
+72505394728,central_park,"NY City Central Park, NY US",725053,94728,Default weather station for non-airport NYC taxi zones
+72503014732,laguardia,"LaGuardia Airport, NY US",725030,14732,Used for LaGuardia Airport taxi zone 138
+74486094789,jfk,"JFK International Airport, NY US",744860,94789,Used for JFK Airport taxi zone 132
+72502014734,newark,"Newark Liberty International Airport, NJ US",725020,14734,Used for Newark Airport taxi zone 1
